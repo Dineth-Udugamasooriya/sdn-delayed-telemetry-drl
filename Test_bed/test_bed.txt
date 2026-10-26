@@ -1,0 +1,4 @@
+Maintain all the things related to the testbed in this folder.
+
+Maintain your own folder structure
+Create a seperate readme for instruct how to up the network and use
